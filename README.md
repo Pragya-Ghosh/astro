@@ -32,4 +32,3 @@ Ensure you have the following installed on your system:
    ```bash
    git clone [https://github.com/yourusername/sense-web.git](https://github.com/yourusername/sense-web.git)
    cd sense-web
-# astro
